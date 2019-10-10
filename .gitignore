@@ -1,3 +1,7 @@
+# Virtual Env
 bin
 include
 lib
+
+# Stuff
+.Python
